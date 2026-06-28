@@ -1,0 +1,3 @@
+# This directory is the sandbox used by the filesystem MCP server.
+# Files created by the agent during labs will appear here.
+# Safe to delete contents between sessions.

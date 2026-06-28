@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Virtual environments (per-week)
+week*/venv/
+week*/.venv/
+
+# Vector databases (generated during labs — don't commit)
+week*/chroma_db/
+chroma_db/
+
+# Agent sandbox files (generated during labs)
+week15-mcp-agent/agent_sandbox/*
+!week15-mcp-agent/agent_sandbox/.gitkeep
+
+# Eval output files
+eval-results*.json
+garak-*.jsonl
+*.jsonl
+
+# Environment files
+.env
+.env.*
+
+# Obsidian vault (personal notes — keep local)
+AI-Security-Lab/
+*.obsidian/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node
+node_modules/
+.npm/
+
+# Logs
+*.log
+logs/

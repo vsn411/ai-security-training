@@ -1,0 +1,14 @@
+chainlit>=1.0.0
+fastapi>=0.110.0
+uvicorn>=0.27.0
+httpx>=0.27.0
+python-dotenv>=1.0.0
+ollama>=0.1.8
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+langchain>=0.2.0
+langchain-text-splitters>=0.2.0
+pypdf>=4.0.0
+mcp>=1.0.0
+anthropic>=0.30.0
+aiohttp>=3.9.0
