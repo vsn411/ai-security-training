@@ -1,4 +1,4 @@
-# 🛡️ RakFort AI Security Training
+# 🛡️ AI Security Training
 
 **A free, self-paced, hands-on curriculum for AI security and agent development.**  
 Everything runs locally. No paid tools, no cloud accounts, no subscriptions required.
